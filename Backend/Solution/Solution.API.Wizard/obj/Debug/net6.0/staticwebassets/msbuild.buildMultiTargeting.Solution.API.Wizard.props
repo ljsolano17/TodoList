@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Solution.API.Wizard.props" />
+</Project>
