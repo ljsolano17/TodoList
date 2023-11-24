@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d8A9sWA8r1WZgSw/MtpNfe7jkO0OgEEifLNH0RR+gjHOaBEgEd1XmzrLMrHp03PWiAKA3GsU4uH9m475+1sxeA==",
+  "dgSpecHash": "Dv+v1Cxwd8DAvCHpmDkpZFv61APHYvBx/C+hUSP2QIuP+AYPbUJQFAqt3Emr20lJg2bKe14S2nSscP2bQU+/Xg==",
   "success": true,
-  "projectFilePath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
+  "projectFilePath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\TodoList\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

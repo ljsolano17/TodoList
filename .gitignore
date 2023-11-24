@@ -2,3 +2,9 @@ Backend/Solution/.vs/
 Backend/Solution/Solution.API.TodoList/bin/
 Backend/Solution/Solution.API.TodoList/obj/
 Solution/Solution.API.Wizard/
+
+Frontend/.vs/
+Frontend/Solution/.vs/
+Frontend/Solution/Solution.FrontEnd.TodoList/bin/
+Frontend/Solution/Solution.FrontEnd.TodoList/obj/
+Frontend/Solution/Solution.FrontEnd.W/

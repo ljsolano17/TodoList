@@ -11860,11 +11860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
+      "projectUniqueName": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\TodoList\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
       "projectName": "Solution.API.Wizard",
-      "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
+      "projectPath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\TodoList\\Backend\\Solution\\Solution.API.Wizard\\Solution.API.Wizard.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\Backend\\Solution\\Solution.API.Wizard\\obj\\",
+      "outputPath": "E:\\REPOSITORIO-GIT\\.NET Core\\TodoList\\Proyecto\\TodoList\\Backend\\Solution\\Solution.API.Wizard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"

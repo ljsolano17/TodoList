@@ -20,6 +20,6 @@ namespace Solution.DO.Objects
 
         public bool Completada { get; set; }
 
-        public int? UserId { get; set; }
+        public string UserId { get; set; }
     }
 }
